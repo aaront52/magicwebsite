@@ -4,7 +4,7 @@
 window.SITE_CONFIG = {
   // Where booking inquiries are delivered. Shown on the Contact page.
   // Leave "" to hide the email address from the page.
-  bookingEmail: "tangaaron911@gmail.com",
+  bookingEmail: "",
 
   // Form delivery service. Pick ONE and paste it here:
   //  • FormSubmit (no account):  "https://formsubmit.co/ajax/you@example.com"
