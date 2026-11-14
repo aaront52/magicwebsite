@@ -10,7 +10,7 @@ window.SITE_CONFIG = {
   //  • FormSubmit (no account):  "https://formsubmit.co/ajax/you@example.com"
   //    The first submission sends you an activation email — click it once.
   //  • Formspree (free account): "https://formspree.io/f/xxxxxxx"
-  formEndpoint: "https://formsubmit.co/ajax/tangaaron911@gmail.com",
+  formEndpoint: "https://formsubmit.co/ajax/aarontangmagic@gmail.com",
 
   // Instagram post links to show on the Gallery page, e.g.
   // "https://www.instagram.com/p/XXXXXXXXXXX/"  — newest first.
